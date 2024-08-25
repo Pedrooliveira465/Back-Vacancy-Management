@@ -35,6 +35,8 @@ Here are the technologies used in this project.
 * To run the project:
 > docker-compose up -d
 
+> mvn spring-boot:run
+
 ## How to use
 
 ### Get start accessing http://ec2-18-188-244-186.us-east-2.compute.amazonaws.com/swagger-ui/index.html#/
