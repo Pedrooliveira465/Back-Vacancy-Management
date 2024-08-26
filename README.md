@@ -6,6 +6,7 @@ Vacancy Management is a project to manage vacancies, making it easier for users 
 
 Here are the technologies used in this project.
 
+* Java
 * Spring Boot
 * Spring Security
 * JUnit
